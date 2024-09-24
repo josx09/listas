@@ -1,3 +1,14 @@
 #EXTM3U
-#EXTINF:-1, Stream
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:10.0,
 https://zona593.live:8443/live/JoseGongora2024/JoseGongora2024/803818.ts
+#EXTINF:10.0,
+https://zona593.live:8443/live/JoseGongora2024/JoseGongora2024/803819.ts
+#EXTINF:10.0,
+https://zona593.live:8443/live/JoseGongora2024/JoseGongora2024/803820.ts
+
+#EXT-X-ENDLIST
+
